@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author coolsasindu
+ * @author coolsasindu@gmail.com
  */
 public class Dbcon {
     
